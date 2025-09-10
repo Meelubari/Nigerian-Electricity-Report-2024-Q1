@@ -87,5 +87,36 @@ Overall, the sector is moving in a positive financial direction; however, sustai
 </p>
 
 
+###
+
+<h1 align="left">Who Maintains and Contributes to the Project:</h1>
+
+###
+
+<p align ="left">
+This project is maintained by Meelubari Jolly. Contributions are welcome! If you would like to contribute, please: 
+
+<ul>
+  <li>
+  Fork the repository.
+</li>
+<li>
+  Submit a pull request with your changes.
+</li>
+<li>
+  Ensure your contributions are aligned with the goals of the project, including yearly performance trend, population by discos, and Energy billed within Nigerian Discos.
+</li>
+
+</ul>
+For any updates or issues, please <a href ="jollymeelubari@gmail.com">Contact Me</a>
+</p>
+
+
+
+
+
+
+
+
 
 
